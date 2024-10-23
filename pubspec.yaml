@@ -1,7 +1,7 @@
 name: voice_command_search_plugin
 description: A compact voice search widget plugin for Flutter
 version: 0.0.1
-homepage: https://github.com/hongsw/voice_command_search_plugin
+homepage: https://github.com/hongsw/flutter_voice_command_search_plugin
 
 environment:
   sdk: ">=2.17.0 <4.0.0"
@@ -27,6 +27,6 @@ flutter:
 
 license: MIT
 
-repository: https://github.com/hongsw/voice_command_search_plugin
-issue_tracker: https://github.com/hongsw/voice_command_search_plugin/issues
-documentation: https://github.com/hongsw/voice_command_search_plugin/wiki
+repository: https://github.com/hongsw/flutter_voice_command_search_plugin
+issue_tracker: https://github.com/hongsw/flutter_voice_command_search_plugin/issues
+documentation: https://github.com/hongsw/flutter_voice_command_search_plugin/wiki
